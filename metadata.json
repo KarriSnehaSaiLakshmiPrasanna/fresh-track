@@ -1,0 +1,5 @@
+{
+  "name": "FreshTrack AI Assistant",
+  "description": "A specialized AI-powered guide for grocery delivery platforms to explain order flows, substitutions, and logistics without over-promising or modifying live data.",
+  "requestFramePermissions": []
+}
